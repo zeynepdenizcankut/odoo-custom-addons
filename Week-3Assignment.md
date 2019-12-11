@@ -5,7 +5,7 @@
 
 ## Requirements:
 - Configure your GIT account on Pycharm environment.
-- Create the directory with your name on the computer.
+- Create the directory with your name and week number on the computer.
 - Have access to Odoo 12 Development Essentials Book and follow the code on its github page
 
 ## Task Definition:
